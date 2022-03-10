@@ -23,8 +23,7 @@ System.out.print(Math.max(Math.abs(i - n), Math.abs(j - n)) + 1 + " ");
 }  
 System.out.println();  
 }  
-}  
-//driver code  
+}    
 public static void main(String args[])  
 {  
 Scanner sc = new Scanner(System.in);  
